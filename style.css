@@ -1,0 +1,10 @@
+body{
+    background-image:url("bg.jpg");
+    font-family: 'Tapestry', cursive;
+}
+h1{
+    width:100%;
+}
+canvas{
+    margin-top:100px;
+}
